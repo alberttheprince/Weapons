@@ -1,10 +1,9 @@
-> Unsupported as of 03/21/2021 - Downloads still available, but no support will be provided for any issues found.
+> Unsupported as of 09/04/2024 - Download still available, and I've updated an image. We'll be adding optimization/fixes at a (yet-to-be-determined) later date
 
 ***
 
 ![channels4_banner|690x114](https://i.ibb.co/CHMD8y6/channels4-banner.jpg) 
 # Inferno Collection: Weapons
-[![Build Status](https://travis-ci.com/inferno-collection/Weapons.svg?branch=master)](https://travis-ci.com/inferno-collection/Weapons)
 
 __Public Beta Version 1.3__
 
